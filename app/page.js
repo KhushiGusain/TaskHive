@@ -119,7 +119,7 @@ export default function Home() {
           onClick={(e)=>{setisOtpSent(false)}}
           className="text-xs text-center hover:underline cursor-pointer text-black mt-1.5 font-medium"
         >
-          Didn't Receive?
+          Didnt Receive?
         </p>
       </div>
     )}
